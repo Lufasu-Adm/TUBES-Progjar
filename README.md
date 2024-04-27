@@ -123,7 +123,7 @@ Dengan demikian, klien tersebut berfungsi sebagai aplikasi yang terus-menerus me
 
 Dengan demikian, klien tersebut berfungsi sebagai aplikasi yang terus-menerus mengirim permintaan ke server untuk mendapatkan warna, kemudian menerjemahkan warna tersebut dan memberikan feedback kepada pengguna berdasarkan jawaban yang diberikan. Proses ini terus berulang selama klien dijalankan dalam loop utama (while True).
 
-[![Untuk Server dan Semua Client]()](https://github.com/Lufasu-Adm/TUBES-Progjar/blob/main/TuBes/Mulai.py)
+[![Untuk Menjalankan Server dan Semua Client]()](https://github.com/Lufasu-Adm/TUBES-Progjar/blob/main/TuBes/Mulai.py)
 
 ## NOTE
 
